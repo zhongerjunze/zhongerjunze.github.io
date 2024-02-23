@@ -1,0 +1,35 @@
+{# <!--
+    pagemarks - Free, git-backed, self-hosted bookmarks
+    Copyright (c) 2019-2021 the pagemarks contributors
+
+    This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public
+    License, version 3, as published by the Free Software Foundation.
+    This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied
+    warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more
+    details.  You should have received a copy of the GNU General Public License along with this program.
+    If not, see <https://www.gnu.org/licenses/gpl.html>.
+    ________________________________________________________________________________________________________________
+
+    HTML for a single bookmark card.
+    This is a genshi NewTextTemplate, based on Bootstrap 5. Context data type is GenshiBookmarkContext.
+--> #}
+
+<div class="col-12 col-md-6 pagemarks-item" id="${id}"\
+    {% if date_added_secs %}data-date-added="${date_added_secs}{# UTC #}"{% end %}
+    data-groups='["${all_tags}"]' data-searchtext="${name_searchtext}">
+    <div class="card border-primary">
+        <div class="card-toolbox"><i class="bi bi-pencil-fill pm-bm-edit pm-onclick-bm-edit" title="Edit Bookmark"
+            data-pm-bm-id="${id}"></i><i class="bi bi-trash-fill pm-bm-delete pm-onclick-bm-delete"
+            data-pm-bm-id="${id}" title="Delete Bookmark"></i><a class="pm-undo d-none pm-onclick-bm-undo-delete"
+            data-pm-bm-id="${id}" href="#">undo</a></div>
+        <div class="card-body">
+            {% if is_long_name %}<h4 class="card-title" title="${name}" data-pm-full-name="${name}">${truncated_name}</h4>{% end %}\
+            {% if not is_long_name %}<h4 class="card-title" data-pm-full-name="${name}">${name}</h4>{% end %}
+            <p class="card-text text-nowrap text-truncate pm-url"><a href="${url_uri}">${url_html}</a></p>
+            <p class="card-text pm-notes">${notes}</p>
+            <div class="pm-card-tags">{% for tag in tags %}
+                <a href="${tag.link}"><span class="badge bg-primary">${tag.tag}</span></a>{% end %}
+            </div>
+        </div>
+    </div>
+</div>

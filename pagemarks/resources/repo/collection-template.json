@@ -1,0 +1,24 @@
+// This is the configuration of a Pagemarks collection.
+{
+    // The HTML page title used for this collection
+    "title": "My Bookmarks",
+
+    // Web page analytics
+    "analytics": {
+        "plausible": {
+            "enabled": false,
+            "data_domain": "example.com",   // put your domain name here
+            "script_url": "https://plausible.io/js/plausible.js"
+            // Plausible collects no personal data and sets no cookies.
+        },
+        "google": {
+            "enabled": false,
+            "ga_account": "UA-123456789-1",
+            "cookie_consent": true,
+            "anonymize_ip": true     // https://support.google.com/analytics/answer/2763052
+        }
+    },
+
+    // The entries of the 'Pinned' dropdown, so you don't have to type them into the 'Filter' box every time
+    "pinned-filters": []
+}
