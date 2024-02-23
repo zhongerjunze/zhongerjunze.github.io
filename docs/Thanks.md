@@ -8,7 +8,7 @@
 为该页面提供源代码
 
 [沉冰浮水](https://www.wdssmq.com/)
-[Ta的书签](https://wdssmq.github.io/bookmarks/)帮助我配置该网页
+Ta的[书签](https://wdssmq.github.io/bookmarks/)帮助我配置该网页
 
 [Github Pages](https://pages.github.com/)
 提供网页支持
