@@ -2,8 +2,7 @@
 
 * 测试
 
- *[Test](test.md)
+    *[Test](test.md)
+    *[test2](test2.md)
 
- *[test2](test2.md)
-
-*[鸣谢](Thanks.md)
+* [鸣谢](Thanks.md)
