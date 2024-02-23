@@ -17,17 +17,18 @@
 
 [[脚本]Steam Coupons BBcode 批量提取Steam库存优惠券信息，生成表格](https://keylol.com/t218559-1-1)
 
-[[更新0.24][19/10/24][Tampermonkey脚本] 蒸汽自动兑换体力脚本](https://keylol.com/t185059-1-1)
+[更新0.24_19/10/24_Tampermonkey脚本 蒸汽自动兑换体力脚本](https://keylol.com/t185059-1-1)
 
 [[脚本]其乐 Markdown 小助手[20.04.16 更新]](https://keylol.com/t581851-1-1)
 
-[[油猴脚本][v1.2.6-DreamNya]自动加体力脚本 Keylol-Autorate增强版](https://keylol.com/t660000-1-1)
+[油猴脚本_v1.2.6-DreamNya自动加体力脚本_Keylol-Autorate增强版](https://keylol.com/t660000-1-1)
 
 [【用户脚本】Steam 链接信息插件（蓝绿插件）多账户支持](https://keylol.com/t653925-1-1)
 
 #### Steam社区相关
 
 [Steam评测关键字屏蔽脚本](https://keylol.com/t599745-1-1)
+GreasyFork链接：[Steam Reviews Filter](https://greasyfork.org/zh-CN/scripts/403990)
 
 [Steam探索队列 控制台版, 无视限区游戏](https://keylol.com/t157861-1-1)
 
@@ -37,20 +38,23 @@ GreasyFork链接：[steam补充包工具](https://greasyfork.org/zh-CN/scripts/3
 #### Steam市场相关
 
 [油猴脚本统计导出市场挂单及历史交易记录 by Charrun](https://keylol.com/t532344-1-1)
+GreasyFork链接：[DownLoad Market History Record](https://greasyfork.org/zh-CN/scripts/391479)
 
 [[油猴脚本]按类型显示账户的消费记录v0.2.1](https://keylol.com/t856350-1-1)
+GreasyFork链接：[Steam Show Purchase History by Type](https://greasyfork.org/zh-CN/scripts/455525)
 
 [Steam Economy Enhancer 中文版（Steam批量卖卡以及批量更改上架物品）](https://keylol.com/t311996-1-1)
+Github链接：[Steam-Economy-Enhancer](https://github.com/Sneer-Cat/Steam-Economy-Enhancer)
 
 #### Steam商店
 
 [Steam 网页确认（修复 Steam 令牌验证器脚本）](https://keylol.com/t896354-1-1)
 
-[steam添加免费游戏修复](https://keylol.com/t898087-1-1)
-
 [最近整合了添加锁偏好游戏至愿望单和免费游戏的脚本，不需要再F12了](https://keylol.com/t514316-1-1)
+GreasyFork链接：[Steam添加FOD](https://greasyfork.org/zh-CN/scripts/389189)
 
 [批量卡单小工具](https://keylol.com/t925544-1-1)
+GreasyFork链接：[Fake_Purchase](https://greasyfork.org/zh-CN/scripts/481986)
 
 [有没有批量删除steam免费游戏的脚本](https://keylol.com/t479290-1-1)
 
@@ -81,8 +85,6 @@ Github链接：[SteaScree](https://github.com/awthwathje/SteaScree)
 [多平台多账号切换器TcNo Account Switcher（开源，好用）含steam epic 育碧 R星等所有主流平台](https://keylol.com/t901620-1-1)
 Github链接：[TcNo-Acc-Switcher](https://github.com/TCNOco/TcNo-Acc-Switcher)
 
-[出差苦于笔记本性能不足，夜夜思念主机的好，不如利用parsec和智能插座获取远程游戏体验](https://keylol.com/t901432-1-1)
-
 #### ASF脚本
 
 [ASF自动领取贴纸插件（2月8日更新，支持ASF 5.5.2.3 及后续版本）](https://keylol.com/t928966-1-1)
@@ -103,6 +105,8 @@ Github链接：[ASFAutoClaimStickers](https://github.com/DevSplash/ASFAutoClaimS
 [简单分享春促隐藏包+快速卡单小技巧](https://keylol.com/t878324-1-1)
 
 [如何在社区市场开整套卡牌的订购单](https://keylol.com/t925727-1-1)
+
+[steam添加免费游戏修复](https://keylol.com/t898087-1-1)
 
 #### Steam客户端
 
@@ -132,7 +136,7 @@ Github链接：[ASFAutoClaimStickers](https://github.com/DevSplash/ASFAutoClaimS
 
 [请问ASF每隔一小段时间就会掉线怎么办？](https://keylol.com/t879347-1-1)
 
-#### 其他
+#### 其他教程
 
 [个人关于国内品牌平台羊毛的小心得](https://keylol.com/t902696-1-1)
 
@@ -141,3 +145,5 @@ Github链接：[ASFAutoClaimStickers](https://github.com/DevSplash/ASFAutoClaimS
 [关于安卓机下载app](https://keylol.com/t931105-1-1)
 
 [6年美工的 Photoshop 快捷键推荐设置](https://keylol.com/t934042-1-1)
+
+[出差苦于笔记本性能不足，夜夜思念主机的好，不如利用parsec和智能插座获取远程游戏体验](https://keylol.com/t901432-1-1)
