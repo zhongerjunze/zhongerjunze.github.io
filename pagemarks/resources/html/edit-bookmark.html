@@ -1,0 +1,63 @@
+{# <!--
+    pagemarks - Free, git-backed, self-hosted bookmarks
+    Copyright (c) 2019-2021 the pagemarks contributors
+
+    This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public
+    License, version 3, as published by the Free Software Foundation.
+    This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied
+    warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more
+    details.  You should have received a copy of the GNU General Public License along with this program.
+    If not, see <https://www.gnu.org/licenses/gpl.html>.
+    ________________________________________________________________________________________________________________
+
+    HTML for the 'Edit Bookmark' dialog.
+    This is a genshi NewTextTemplate, based on Bootstrap 5.
+--> #}
+
+<div class="modal fade" id="pm-edit-bookmark-modal">
+    <div class="modal-dialog" role="document"><div class="modal-content border-info">
+        <div class="modal-header">
+            <h5 class="modal-title">Edit Bookmark</h5>
+            <button type="button" class="btn-close pm-onclick-bm-cancel" aria-label="Close"><span
+                    aria-hidden="true"></span></button>
+        </div>
+        <div class="modal-body">
+            <div class="pm-bm-edit-loading">
+                <p class="d-inline-block me-3">Loading ...</p>
+                <div class="spinner-border" role="status">
+                    <span class="visually-hidden">Loading...</span>
+                </div>
+            </div>
+            <form class="d-none">
+                <input type="hidden" id="pm-bm-edit-id">
+                <div class="form-group">
+                    <label for="pm-bm-edit-name" class="form-label">Label</label>
+                    <input type="text" class="form-control" id="pm-bm-edit-name" placeholder="Label">
+                </div>
+                <div class="form-group">
+                    <fieldset>
+                        <label class="form-label mt-4" for="pm-bm-edit-url">URL</label>
+                        <input class="form-control" id="pm-bm-edit-url" type="url" placeholder="URL">
+                        <div class="invalid-feedback d-none">This URL is already present.</div>
+                    </fieldset>
+                </div>
+                <div class="form-group">
+                    <label for="pm-bm-edit-tags" class="form-label mt-4">Tags</label>
+                    <input type="text" class="form-control" id="pm-bm-edit-tags" placeholder="Tags"
+                        pattern="^[A-Za-z0-9_-]{1,20}$">
+                </div>
+                <div class="form-group">
+                    <label for="pm-bm-edit-notes" class="form-label mt-4">Notes</label>
+                    <textarea class="form-control" id="pm-bm-edit-notes" rows="3"></textarea>
+                </div>
+            </form>
+            <div class="alert alert-danger mt-4 d-none">
+                <strong>Error:</strong> <span class="pm-bm-edit-errormsg">Something went wrong.</span>
+            </div>
+        </div>
+        <div class="modal-footer">
+            <button type="button" class="btn btn-primary pm-onclick-bm-save disabled">Save Changes</button>
+            <button type="button" class="btn btn-secondary pm-onclick-bm-cancel">Cancel</button>
+        </div>
+    </div></div>
+</div>
