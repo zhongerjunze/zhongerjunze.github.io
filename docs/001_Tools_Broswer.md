@@ -2,7 +2,7 @@
 
 适用于浏览器的脚本、插件等
 
-### Keylol社区相关
+## Keylol社区相关
 
 [[脚本]Steam Coupons BBcode 批量提取Steam库存优惠券信息，生成表格](https://keylol.com/t218559-1-1)
 
@@ -14,7 +14,7 @@
 
 [【用户脚本】Steam 链接信息插件（蓝绿插件）多账户支持](https://keylol.com/t653925-1-1)
 
-### Steam社区相关
+## Steam社区相关
 
 [Steam评测关键字屏蔽脚本](https://keylol.com/t599745-1-1)
 GreasyFork链接：[Steam Reviews Filter](https://greasyfork.org/zh-CN/scripts/403990)
@@ -24,7 +24,7 @@ GreasyFork链接：[Steam Reviews Filter](https://greasyfork.org/zh-CN/scripts/4
 [steam补充包脚本 2024.2.13 更新到4.00](https://keylol.com/t934850-1-1)
 GreasyFork链接：[steam补充包工具](https://greasyfork.org/zh-CN/scripts/376049)
 
-### Steam市场相关
+## Steam市场相关
 
 [油猴脚本统计导出市场挂单及历史交易记录 by Charrun](https://keylol.com/t532344-1-1)
 GreasyFork链接：[DownLoad Market History Record](https://greasyfork.org/zh-CN/scripts/391479)
@@ -35,7 +35,7 @@ GreasyFork链接：[Steam Show Purchase History by Type](https://greasyfork.org/
 [Steam Economy Enhancer 中文版（Steam批量卖卡以及批量更改上架物品）](https://keylol.com/t311996-1-1)
 Github链接：[Steam-Economy-Enhancer](https://github.com/Sneer-Cat/Steam-Economy-Enhancer)
 
-### Steam商店
+## Steam商店
 
 [Steam 网页确认（修复 Steam 令牌验证器脚本）](https://keylol.com/t896354-1-1)
 
@@ -47,7 +47,7 @@ GreasyFork链接：[Fake_Purchase](https://greasyfork.org/zh-CN/scripts/481986)
 
 [有没有批量删除steam免费游戏的脚本](https://keylol.com/t479290-1-1)
 
-### 其他脚本
+## 其他脚本
 
 [【没什么用的脚本系列】B站登录弹窗屏蔽脚本](https://keylol.com/t883675-1-1)
 GreasyFork链接：[B站登录窗口屏蔽](https://greasyfork.org/scripts/463926)

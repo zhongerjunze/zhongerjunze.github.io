@@ -4,6 +4,6 @@
 
   * [浏览器工具](001_Tools_Broswer.md)
   * [本地工具](002_Tools_Local.md)
-  * [相关教程](003_Realted_Guide.md)
+  * [相关教程](003_Related_Guides.md)
 
 * [鸣谢](Thanks.md)
