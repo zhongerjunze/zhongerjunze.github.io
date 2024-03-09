@@ -24,6 +24,9 @@ GreasyFork链接：[Steam Reviews Filter](https://greasyfork.org/zh-CN/scripts/4
 [steam补充包脚本 2024.2.13 更新到4.00](https://keylol.com/t934850-1-1)
 GreasyFork链接：[steam补充包工具](https://greasyfork.org/zh-CN/scripts/376049)
 
+[快速访问Steam云存档脚本](https://keylol.com/t938518-1-1)
+GreasyFork链接：[Steam Cloudsave](https://greasyfork.org/zh-CN/scripts/489218)
+
 ## Steam市场相关
 
 [油猴脚本统计导出市场挂单及历史交易记录 by Charrun](https://keylol.com/t532344-1-1)

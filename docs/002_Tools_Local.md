@@ -17,6 +17,9 @@ Github链接：[idle_master_extended](https://github.com/JonasNilson/idle_master
 [steam自定义截图上传工具—SteaScree简介](https://keylol.com/t800280-1-1)
 Github链接：[SteaScree](https://github.com/awthwathje/SteaScree)
 
+[Steam 云存档管理器](https://keylol.com/t816541-1-1)
+Github链接：[SteamCloudFileManagerLite](https://github.com/GMMan/SteamCloudFileManagerLite/)
+
 ## 其他
 
 [多平台多账号切换器TcNo Account Switcher（开源，好用）含steam epic 育碧 R星等所有主流平台](https://keylol.com/t901620-1-1)
