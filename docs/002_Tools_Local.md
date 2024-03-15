@@ -27,5 +27,8 @@ Github链接：[TcNo-Acc-Switcher](https://github.com/TCNOco/TcNo-Acc-Switcher)
 
 ## ASF脚本
 
-[ASF自动领取贴纸插件（2月8日更新，支持ASF 5.5.2.3 及后续版本）](https://keylol.com/t928966-1-1)
+[ASF自动领取贴纸插件（3月10日更新，支持ASF 6.0.0.3 及后续版本）](https://keylol.com/t928966-1-1)
 Github链接：[ASFAutoClaimStickers](https://github.com/DevSplash/ASFAutoClaimStickers)
+
+[【ASF插件】ASFEnhance 介绍 & 使用指南](https://keylol.com/t804841-1-1)
+Github链接：[ASFEnhance](https://github.com/chr233/ASFEnhance)

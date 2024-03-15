@@ -42,6 +42,9 @@
 
 [教你如何用Steam客户端查自己的跨区案底！](https://keylol.com/t57275-1-1)
 
+[【2024/3/15】不再需要root! 新版Steam令牌导入ASF](https://keylol.com/t939676-1-1)
+相关链接：[Github ASF Wiki](https://github.com/JustArchiNET/ArchiSteamFarm/wiki/Two-factor-authentication-zh-CN)
+
 ## 挂卡
 
 [请问ASF每隔一小段时间就会掉线怎么办？](https://keylol.com/t879347-1-1)
@@ -57,3 +60,5 @@
 [6年美工的 Photoshop 快捷键推荐设置](https://keylol.com/t934042-1-1)
 
 [出差苦于笔记本性能不足，夜夜思念主机的好，不如利用parsec和智能插座获取远程游戏体验](https://keylol.com/t901432-1-1)
+
+[记账用手机App推荐](https://keylol.com/t905932-1-1)

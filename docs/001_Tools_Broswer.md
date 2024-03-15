@@ -16,8 +16,8 @@
 
 ## Steam社区相关
 
-[Steam评测关键字屏蔽脚本](https://keylol.com/t599745-1-1)
-GreasyFork链接：[Steam Reviews Filter](https://greasyfork.org/zh-CN/scripts/403990)
+[【乞丐终结者】Steam商店页面评测过滤脚本](https://keylol.com/t901286-1-1)
+GreasyFork链接：[Steam Reviews Filter](https://greasyfork.org/zh-CN/scripts/471140)
 
 [Steam探索队列 控制台版, 无视限区游戏](https://keylol.com/t157861-1-1)
 
@@ -26,6 +26,12 @@ GreasyFork链接：[steam补充包工具](https://greasyfork.org/zh-CN/scripts/3
 
 [快速访问Steam云存档脚本](https://keylol.com/t938518-1-1)
 GreasyFork链接：[Steam Cloudsave](https://greasyfork.org/zh-CN/scripts/489218)
+
+[油猴脚本_自动领取促销/活动的贴纸奖励](https://keylol.com/t878327-1-1)
+GreasyFork链接：[浏览Steam时自动领取Steam贴纸](https://greasyfork.org/zh-CN/scripts/461981)
+
+~~[Steam评测关键字屏蔽脚本](https://keylol.com/t599745-1-1)~~
+~~GreasyFork链接：[Steam Reviews Filter](https://greasyfork.org/zh-CN/scripts/403990)~~
 
 ## Steam市场相关
 
@@ -54,3 +60,5 @@ GreasyFork链接：[Fake_Purchase](https://greasyfork.org/zh-CN/scripts/481986)
 
 [【没什么用的脚本系列】B站登录弹窗屏蔽脚本](https://keylol.com/t883675-1-1)
 GreasyFork链接：[B站登录窗口屏蔽](https://greasyfork.org/scripts/463926)
+
+[游戏进包查询插件Github](https://github.com/Revadike/SteamWebIntegration/)
