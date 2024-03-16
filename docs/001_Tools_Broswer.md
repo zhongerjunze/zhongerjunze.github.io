@@ -4,15 +4,20 @@
 
 ## Keylol社区相关
 
-[[脚本]Steam Coupons BBcode 批量提取Steam库存优惠券信息，生成表格](https://keylol.com/t218559-1-1)
+Steam Coupons BBcode 批量提取Steam库存优惠券信息，生成表格脚本
+论坛链接：[https://keylol.com/t218559-1-1](https://keylol.com/t218559-1-1)
 
-[更新0.24_19/10/24_Tampermonkey脚本 蒸汽自动兑换体力脚本](https://keylol.com/t185059-1-1)
+蒸汽自动兑换体力脚本 v0.24 2019/10/24
+论坛链接：[https://keylol.com/t185059-1-1](https://keylol.com/t185059-1-1)
 
-[[脚本]其乐 Markdown 小助手[20.04.16 更新]](https://keylol.com/t581851-1-1)
+其乐 Markdown 小助手 2020/04/16
+论坛链接：[https://keylol.com/t581851-1-1](https://keylol.com/t581851-1-1)
 
-[油猴脚本_v1.2.6-DreamNya自动加体力脚本_Keylol-Autorate增强版](https://keylol.com/t660000-1-1)
+DreamNya自动加体力脚本_Keylol-Autorate增强版v1.2.6
+论坛链接：[https://keylol.com/t660000-1-1](https://keylol.com/t660000-1-1)
 
-[【用户脚本】Steam 链接信息插件（蓝绿插件）多账户支持](https://keylol.com/t653925-1-1)
+Steam 链接信息插件（蓝绿插件）多账户支持
+论坛链接：[https://keylol.com/t653925-1-1](https://keylol.com/t653925-1-1)
 
 ## Steam社区相关
 
