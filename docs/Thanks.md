@@ -15,3 +15,11 @@ Ta的[书签](https://wdssmq.github.io/bookmarks/)帮助我配置该网页
 
 [其乐Keylol](https://keylol.com/)的各位
 提供各类教程
+
+## 使用的插件
+
+[docsify-sidebar-collapse](https://github.com/iPeng6/docsify-sidebar-collapse)
+折叠多层目录
+
+[docsify-copy-code](https://github.com/jperasmus/docsify-copy-code)
+复制代码

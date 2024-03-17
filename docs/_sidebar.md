@@ -1,13 +1,9 @@
-* Keylol的帖子收藏
-
-  * [浏览器工具](001_Tools_Broswer.md)
-  * [本地工具](002_Tools_Local.md)
-  * [相关教程](003_Related_Guides.md)
-
-* Keylol发帖指南
-
-  * [BBCode的简单使用](011_Basic_Format.md)
-  * [常用网站](012_Useful_Websites.md)
-  * [发帖模板](019_Post_Templates.md)
-
-* [鸣谢](Thanks.md)
+- Keylol的帖子收藏
+  - [浏览器工具](001_Tools_Broswer.md)
+  - [本地工具](002_Tools_Local.md)
+  - [相关教程](003_Related_Guides.md)
+- Keylol发帖指南
+  - [BBCode的简单使用](011_Basic_Format.md)
+  - [常用网站](012_Useful_Websites.md)
+  - [发帖模板](019_Post_Templates.md)
+- [鸣谢](Thanks.md)
