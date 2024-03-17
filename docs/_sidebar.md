@@ -6,7 +6,7 @@
 
 * Keylol发帖指南
 
-  * [BBCode的简单使用](011_Basic_BBode.md)
+  * [BBCode的简单使用(011_Basic_Format.md)
   * [常用网站](012_Useful_Websites.md)
   * [发帖模板](019_Post_Templates.md)
 
