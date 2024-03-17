@@ -75,3 +75,48 @@
 
 [/spoil]
 ```
+
+## 原声带发售
+
+原声带发售的模板
+
+```bbcode
+[k1]原声带名称已发售：￥价格[/k1]
+[sframe]原声带数字[/sframe]
+[url=原声带链接][size=2]原声带链接[/size][/url]
+[size=2]
+[/size]
+[k2]公告[/k2]
+[k3]原文[/k3]
+[quote]
+引用内容
+[/quote]
+[size=2] [/size]
+[k3]翻译[/k3]
+[quote]
+引用翻译
+[/quote]
+[size=2] [/size]
+[k2]其他信息[/k2]
+[size=2] [/size]
+[k3]关于此内容[/k3]
+[size=2] 这里填写内容 [/size]
+[size=2] [/size]
+[k3]曲目列表[/k3]
+[spoil=原声带曲目列表]
+[img]图片链接1[/img]
+[/spoil]
+[size=2] [/size]
+[k3]各区价格[/k3]
+[spoil=各区价格]
+[img]图片链接2[/img]
+[/spoil]
+[size=2] [/size]
+[k3]相关游戏、捆绑包[/k3]
+[size=2] 游戏名称 [/size]
+[sframe]游戏数字[/sframe]
+[url=游戏链接]游戏链接[/url]
+[size=2] [/size]
+[size=2]捆绑包名称[/size]
+[url=捆绑包链接]捆绑包链接[/url]
+```
