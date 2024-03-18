@@ -4,19 +4,59 @@
 
 ## Keylol社区
 
-[如何通过id寻找到论坛个人资料页](https://keylol.com/t885292-1-1)
+### 通过用户名找到论坛个人资料页
+
+Q：如何通过id寻找到论坛个人资料页？
+
+A：使用`https://keylol.com/home.php?mod=space&username=【用户名】`
+
+论坛链接：[https://keylol.com/t885292-1-1](https://keylol.com/t885292-1-1)
 
 ## Steam购买
 
-[steam礼物额度的一些问题](https://keylol.com/t880809-1-1)
+### steam礼物额度的一些问题
 
-[客服里的够买消费一直出错。](https://keylol.com/t880841-1-1)
+steam礼物额度的一些问题
 
-[简单分享春促隐藏包+快速卡单小技巧](https://keylol.com/t878324-1-1)
+Q：
+1.Steam赠送礼物额度怎么计算呢？csgo内购消费会加吗？
+2.礼物额度是实时增加的，还是说有多久的延迟？
+3.哪里能查看自己账号还剩多少送礼额度呢？
 
-[如何在社区市场开整套卡牌的订购单](https://keylol.com/t925727-1-1)
+A：
+1.礼物额度=Steam购买游戏金额-Steam送礼金额-Steam购买游戏退款金额+Steam送礼退款金额。 内购不算
+2.以前比较普遍的说法是最晚48-36小时，但是最近也就前段时间看到有大佬回复说实测额度几乎马上到账，暂且可以认为是实时到账的
+3.脚本
 
-[steam添加免费游戏修复](https://keylol.com/t898087-1-1)
+论坛链接：[https://keylol.com/t880809-1-1](https://keylol.com/t880809-1-1)
+
+### 客服中购买消费页面一直出错
+
+Q：Steam客服->购买消费（近期购买记录） 界面一直出错
+
+A：如果近期疯狂消费购入了大量游戏，那这个“购买消费”的历史记录页面基本是可以告别了，很容易加载卡死，而且我记得记录的时间跨度好像是近6个月。
+
+解决方案：
+如果只是查看卡单记录，可以使用这个页面
+`https://help.steampowered.com/wizard/HelpCannotCompletePurchase`
+如果还想查看所有成功购买记录，或者某一单消费明细，可以在这个页面里点开某一条目，地址和那个“购买消费”的指向是一样的。
+`https://store.steampowered.com/account/history/`
+
+论坛链接：[https://keylol.com/t880841-1-1](https://keylol.com/t880841-1-1)
+
+### 春促隐藏包+快速卡单小技巧
+
+论坛链接：[https://keylol.com/t878324-1-1](https://keylol.com/t878324-1-1)
+
+### 如何在社区市场开整套卡牌的订购单
+
+论坛链接：[https://keylol.com/t925727-1-1](https://keylol.com/t925727-1-1)
+
+### ~~Steam添加免费游戏修复~~
+
+~~过时信息~~
+
+~~论坛链接：[https://keylol.com/t898087-1-1](https://keylol.com/t898087-1-1)~~
 
 ## Steam客户端
 
