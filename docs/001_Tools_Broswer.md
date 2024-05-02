@@ -16,6 +16,12 @@ Steam Coupons BBcode 批量提取Steam库存优惠券信息，生成表格脚本
 
 论坛链接：[https://keylol.com/t185059-1-1](https://keylol.com/t185059-1-1)
 
+### 全自动蒸汽-3
+
+轮盘活动抽奖，自动/手动-3蒸汽脚本
+
+论坛链接：[https://keylol.com/t680966-1-1](https://keylol.com/t680966-1-1)
+
 ### 其乐 Markdown 小助手
 
 其乐 Markdown 小助手 2020/04/16
@@ -84,6 +90,15 @@ GreasyFork链接：[https://greasyfork.org/zh-CN/scripts/403990](https://greasyf
 
 ## Steam市场相关
 
+### 【油猴脚本】Steam交易趋势均线
+
+Steam市场交易趋势均线
+我在Steam市场炒股
+
+论坛链接：[https://keylol.com/t942848-1-1](https://keylol.com/t942848-1-1)
+
+GreasyFork链接：[https://greasyfork.org/zh-CN/scripts/491198](https://greasyfork.org/zh-CN/scripts/491198)
+
 ### 导出市场挂单及历史交易记录
 
 [油猴脚本]统计导出市场挂单及历史交易记录 by Charrun
@@ -107,6 +122,12 @@ Steam Economy Enhancer 中文版（Steam批量卖卡以及批量更改上架物�
 论坛链接：[https://keylol.com/t311996-1-1](https://keylol.com/t311996-1-1)
 
 GreasyFork链接：[https://github.com/Sneer-Cat/Steam-Economy-Enhancer](https://github.com/Sneer-Cat/Steam-Economy-Enhancer)
+
+### 购物车批量导入导出脚本【适配新版购物车】【2024/3/22】
+
+导入导出购物车
+
+论坛链接：[https://keylol.com/t940979-1-1](https://keylol.com/t940979-1-1)
 
 ## Steam商店
 
@@ -140,6 +161,12 @@ GreasyFork链接：[https://greasyfork.org/zh-CN/scripts/481986](https://greasyf
 
 ## 其他脚本
 
+### Steam 家庭库已有游戏标记 （支持其乐社区显示！）
+
+论坛链接：[https://keylol.com/t943303-1-1](https://keylol.com/t943303-1-1)
+
+GreasyFork链接：[https://greasyfork.org/zh-CN/scripts/491817](https://greasyfork.org/zh-CN/scripts/491817)
+
 ### B站登录弹窗屏蔽脚本
 
 【没什么用的脚本系列】B站登录弹窗屏蔽脚本
@@ -155,3 +182,11 @@ SteamWebIntegration
 在网页中解析游戏名并查询进包信息
 
 Github链接：[https://github.com/Revadike/SteamWebIntegration/](https://github.com/Revadike/SteamWebIntegration/)
+
+### SteamDB特卖页面中国区价格自动换算比价
+
+SteamDB界面批量对比不同区域价格
+
+论坛链接：[https://keylol.com/t940474-1-1](https://keylol.com/t940474-1-1)
+
+GreasyFork链接：[https://greasyfork.org/en/scripts/490272](https://greasyfork.org/en/scripts/490272)

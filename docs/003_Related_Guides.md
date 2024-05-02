@@ -14,9 +14,9 @@ A：使用`https://keylol.com/home.php?mod=space&username=【用户名】`
 
 ## Steam购买
 
-### steam礼物额度的一些问题
+### Steam礼物额度的一些问题
 
-steam礼物额度的一些问题
+Steam礼物额度的一些问题
 
 Q：
 1.Steam赠送礼物额度怎么计算呢？csgo内购消费会加吗？
@@ -60,7 +60,17 @@ A：如果近期疯狂消费购入了大量游戏，那这个“购买消费”�
 
 ## Steam客户端
 
-[在steam客户端里使用油猴脚本的方法](https://keylol.com/t769336-1-1)
+### 在Steam客户端里使用油猴脚本
+
+论坛链接：[https://keylol.com/t769336-1-1](https://keylol.com/t769336-1-1)
+
+### steam webhelper 占内存（未解决）
+
+可能的解决方案：
+1.关掉硬件加速，打开低性能模式试试。
+2.把游戏左边小图标去掉，以及删除所有陈列架
+
+论坛链接：[https://keylol.com/t940314-1-1](https://keylol.com/t940314-1-1)
 
 ## Steam卡牌
 
@@ -85,6 +95,18 @@ A：如果近期疯狂消费购入了大量游戏，那这个“购买消费”�
 [【2024/3/15】不再需要root! 新版Steam令牌导入ASF](https://keylol.com/t939676-1-1)
 相关链接：[Github ASF Wiki](https://github.com/JustArchiNET/ArchiSteamFarm/wiki/Two-factor-authentication-zh-CN)
 
+## Steam家庭共享
+
+### 有哪些游戏家庭共享给他人会被VAC连坐
+
+Steam商店有【启动Value反作弊保护】这一条的
+
+论坛链接：[https://keylol.com/t940425-1-1](https://keylol.com/t940425-1-1)
+
+### 跨区家庭共享的方法【2024/4/11】
+
+论坛链接：[https://keylol.com/t943838-1-1](https://keylol.com/t943838-1-1)
+
 ## 挂卡
 
 [请问ASF每隔一小段时间就会掉线怎么办？](https://keylol.com/t879347-1-1)
@@ -102,3 +124,9 @@ A：如果近期疯狂消费购入了大量游戏，那这个“购买消费”�
 [出差苦于笔记本性能不足，夜夜思念主机的好，不如利用parsec和智能插座获取远程游戏体验](https://keylol.com/t901432-1-1)
 
 [记账用手机App推荐](https://keylol.com/t905932-1-1)
+
+[基于Augmented Steam插件实现一键搜索引擎转达](https://keylol.com/t941222-1-1)
+
+[关于洗牙，补牙的一点经验和电动牙刷的使用经验](https://keylol.com/t944731-1-1)
+
+[如何将微软账号保护真正做到全方位无死角](https://keylol.com/t944787-1-1)
