@@ -26,7 +26,7 @@ Q：
 A：
 1.礼物额度=Steam购买游戏金额-Steam送礼金额-Steam购买游戏退款金额+Steam送礼退款金额。 内购不算
 2.以前比较普遍的说法是最晚48-36小时，但是最近也就前段时间看到有大佬回复说实测额度几乎马上到账，暂且可以认为是实时到账的
-3.脚本
+3.脚本，比如：[[油猴脚本]按类型显示账户的消费记录v0.2.1](https://zhongerjunze.github.io/#/001_Tools_Broswer?id=%e6%98%be%e7%a4%ba%e8%b4%a6%e6%88%b7%e7%9a%84%e6%b6%88%e8%b4%b9%e8%ae%b0%e5%bd%95)
 
 论坛链接：[https://keylol.com/t880809-1-1](https://keylol.com/t880809-1-1)
 
@@ -57,6 +57,18 @@ A：如果近期疯狂消费购入了大量游戏，那这个“购买消费”�
 ~~过时信息~~
 
 ~~论坛链接：[https://keylol.com/t898087-1-1](https://keylol.com/t898087-1-1)~~
+
+## Steam社区
+
+### Steam社区奖励怎么看来源
+
+Q：社区奖励怎么看来源？
+
+A：14天到账后才能看，STEAM点数那里，[https://store.steampowered.com/pointssummary/](https://store.steampowered.com/pointssummary/)
+点击 查看详情，
+点了详情后后注意看下方 日期明细那里，有个超链是可以点击。 可以点到具体加在哪个 评测或图片等。
+
+论坛链接：[https://keylol.com/t950694-1-1](https://keylol.com/t950694-1-1)
 
 ## Steam客户端
 
@@ -107,17 +119,34 @@ Steam商店有【启动Value反作弊保护】这一条的
 
 论坛链接：[https://keylol.com/t943838-1-1](https://keylol.com/t943838-1-1)
 
+### 您的 Steam 活动并未表明您与该家庭的其他成员属于同一户人家
+
+在你设备上多登一会他的号然后确认。
+
+论坛链接：[https://keylol.com/t950014-1-1](https://keylol.com/t950014-1-1)
+
 ## 挂卡
 
 [请问ASF每隔一小段时间就会掉线怎么办？](https://keylol.com/t879347-1-1)
 
 ## 其他教程
 
+### 安卓App如何减少广告
+
+Q：
+1、Play版本有什么特点？
+2、有哪些广告少的版本？
+
+A：
+1、更新慢、较为简洁（但部分软件仍有部分广告）、部分功能阉割
+2、找一些大佬开发的第三方平替官方软件、找一些平替小众软件、不怕的话可以下载各种大佬修改的版本
+
+论坛标题：关于安卓机下载app
+论坛链接：[https://keylol.com/t931105-1-1](https://keylol.com/t931105-1-1)
+
 [个人关于国内品牌平台羊毛的小心得](https://keylol.com/t902696-1-1)
 
 [CS2/CSGO 经验与掉落系统解析](https://keylol.com/t929219-1-1)
-
-[关于安卓机下载app](https://keylol.com/t931105-1-1)
 
 [6年美工的 Photoshop 快捷键推荐设置](https://keylol.com/t934042-1-1)
 
@@ -130,3 +159,9 @@ Steam商店有【启动Value反作弊保护】这一条的
 [关于洗牙，补牙的一点经验和电动牙刷的使用经验](https://keylol.com/t944731-1-1)
 
 [如何将微软账号保护真正做到全方位无死角](https://keylol.com/t944787-1-1)
+
+[寻找老人一键打视频电话的软件](https://keylol.com/t946985-1-1)
+
+[配眼镜可以知道的一些小知识](https://keylol.com/t947438-1-1)
+
+[命令行：把指定的subid游戏移出购物车。](https://keylol.com/t950283-1-1)

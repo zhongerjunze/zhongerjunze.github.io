@@ -40,14 +40,6 @@ SteamCloudFileManagerLite 云存档管理器
 
 Github链接：[https://github.com/GMMan/SteamCloudFileManagerLite/](https://github.com/GMMan/SteamCloudFileManagerLite/)
 
-## 其他
-
-### TcNo Account Switcher 多平台账号切换
-
-论坛链接：[https://keylol.com/t901620-1-1](https://keylol.com/t901620-1-1)
-
-Github链接：[https://github.com/TCNOco/TcNo-Acc-Switcher](https://github.com/TCNOco/TcNo-Acc-Switcher)
-
 ## ASF脚本
 
 ### ASF自动领取贴纸
@@ -66,3 +58,21 @@ Github链接：[https://github.com/DevSplash/ASFAutoClaimStickers](https://githu
 论坛链接：[https://keylol.com/t804841-1-1](https://keylol.com/t804841-1-1)
 
 Github链接：[https://github.com/chr233/ASFEnhance](https://github.com/chr233/ASFEnhance)
+
+## 其他
+
+### TcNo Account Switcher 多平台账号切换
+
+论坛链接：[https://keylol.com/t901620-1-1](https://keylol.com/t901620-1-1)
+
+Github链接：[https://github.com/TCNOco/TcNo-Acc-Switcher](https://github.com/TCNOco/TcNo-Acc-Switcher)
+
+### 文件查重
+
+WinMerge
+比较文件名，文件名相同才比较二进制数据
+Github链接：[https://github.com/winmerge/winmerge](https://github.com/winmerge/winmerge)
+
+HashCalculator
+批量计算、比对哈希值
+Github链接：[https://github.com/hrpzcf/HashCalculator](https://github.com/hrpzcf/HashCalculator)

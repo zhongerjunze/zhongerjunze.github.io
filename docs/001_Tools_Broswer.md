@@ -88,12 +88,22 @@ Steam评测关键字屏蔽脚本
 
 GreasyFork链接：[https://greasyfork.org/zh-CN/scripts/403990](https://greasyfork.org/zh-CN/scripts/403990)
 
+### Steam动态自动点赞脚本
+
+Steam动态批量点赞脚本【增强版】
+
+论坛链接：[https://keylol.com/t950922-1-1](https://keylol.com/t950922-1-1)
+
+GreasyFork链接：[https://greasyfork.org/zh-CN/scripts/496295](https://greasyfork.org/zh-CN/scripts/496295)
+
+Github链接：[https://github.com/chr233/GM_Scripts](https://github.com/chr233/GM_Scripts)
+
 ## Steam市场相关
 
 ### 【油猴脚本】Steam交易趋势均线
 
 Steam市场交易趋势均线
-我在Steam市场炒股
+“重生之我在Steam市场炒股”
 
 论坛链接：[https://keylol.com/t942848-1-1](https://keylol.com/t942848-1-1)
 
@@ -109,7 +119,7 @@ GreasyFork链接：[https://greasyfork.org/zh-CN/scripts/391479](https://greasyf
 
 ### 显示账户的消费记录
 
-/[油猴脚本]按类型显示账户的消费记录v0.2.1
+[油猴脚本]按类型显示账户的消费记录v0.2.1
 
 论坛链接：[https://keylol.com/t856350-1-1](https://keylol.com/t856350-1-1)
 
@@ -159,6 +169,12 @@ GreasyFork链接：[https://greasyfork.org/zh-CN/scripts/481986](https://greasyf
 
 论坛链接：[https://keylol.com/t479290-1-1](https://keylol.com/t479290-1-1)
 
+## 其他商店
+
+### GOG批量添加购物车
+
+[gog可以批量添加购物车的脚本](https://keylol.com/t950636-1-1)
+
 ## 其他脚本
 
 ### Steam 家庭库已有游戏标记 （支持其乐社区显示！）
@@ -190,3 +206,8 @@ SteamDB界面批量对比不同区域价格
 论坛链接：[https://keylol.com/t940474-1-1](https://keylol.com/t940474-1-1)
 
 GreasyFork链接：[https://greasyfork.org/en/scripts/490272](https://greasyfork.org/en/scripts/490272)
+
+### 购物秒杀脚本
+
+抢购助手v2
+GreasyFork链接：[https://greasyfork.org/zh-CN/scripts/393577](https://greasyfork.org/zh-CN/scripts/393577)
