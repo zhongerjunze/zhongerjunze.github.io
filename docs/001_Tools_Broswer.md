@@ -98,6 +98,10 @@ GreasyFork链接：[https://greasyfork.org/zh-CN/scripts/496295](https://greasyf
 
 Github链接：[https://github.com/chr233/GM_Scripts](https://github.com/chr233/GM_Scripts)
 
+### ASF点数打赏插件 ASFAwardToolLite
+
+[https://keylol.com/t958454-1-1](https://keylol.com/t958454-1-1)
+
 ## Steam市场相关
 
 ### 【油猴脚本】Steam交易趋势均线
@@ -139,6 +143,10 @@ GreasyFork链接：[https://github.com/Sneer-Cat/Steam-Economy-Enhancer](https:/
 
 论坛链接：[https://keylol.com/t940979-1-1](https://keylol.com/t940979-1-1)
 
+### Steam库存堆叠小工具
+
+[https://keylol.com/t954659-1-1](https://keylol.com/t954659-1-1)
+
 ## Steam商店
 
 ### Steam 网页确认
@@ -165,15 +173,33 @@ GreasyFork链接：[https://greasyfork.org/zh-CN/scripts/481986](https://greasyf
 
 ### 批量删除Steam免费游戏
 
-批量删除steam免费游戏的脚本
+一键删除所有steam免费游戏的脚本
 
 论坛链接：[https://keylol.com/t479290-1-1](https://keylol.com/t479290-1-1)
+
+删除选中Steam免费游戏脚本
+
+论坛链接：[https://keylol.com/t414736-1-1](https://keylol.com/t414736-1-1)
+
+### Steam网页批量激活
+
+网页全自动批量激活脚本，含1小时冷却后继续激活功能
+
+[https://keylol.com/t419519-1-1](https://keylol.com/t419519-1-1)
+
+【脚本】Steam网页批量激活
+
+[https://keylol.com/t303915-1-1](https://keylol.com/t303915-1-1)
 
 ## 其他商店
 
 ### GOG批量添加购物车
 
 [gog可以批量添加购物车的脚本](https://keylol.com/t950636-1-1)
+
+### DailyIndieGame Trade In 优化
+
+[https://keylol.com/t955575-1-1](https://keylol.com/t955575-1-1)
 
 ## 其他脚本
 

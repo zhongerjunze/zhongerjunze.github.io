@@ -52,11 +52,9 @@ A：如果近期疯狂消费购入了大量游戏，那这个“购买消费”�
 
 论坛链接：[https://keylol.com/t925727-1-1](https://keylol.com/t925727-1-1)
 
-### ~~Steam添加免费游戏修复~~
+### 有办法查询 Steam 游戏 key 的状态吗（比如是否已使用）
 
-~~过时信息~~
-
-~~论坛链接：[https://keylol.com/t898087-1-1](https://keylol.com/t898087-1-1)~~
+论坛链接：[https://keylol.com/t953669-1-1](https://keylol.com/t953669-1-1)
 
 ## Steam社区
 
@@ -84,6 +82,10 @@ A：14天到账后才能看，STEAM点数那里，[https://store.steampowered.co
 
 论坛链接：[https://keylol.com/t940314-1-1](https://keylol.com/t940314-1-1)
 
+### steam聊天记录如何保存
+
+[https://keylol.com/t953634-1-1](https://keylol.com/t953634-1-1)
+
 ## Steam卡牌
 
 [如何通过卡牌BOT进行换卡？](https://keylol.com/t698822-1-1)
@@ -97,6 +99,10 @@ A：14天到账后才能看，STEAM点数那里，[https://store.steampowered.co
 [iOS新版Steam导出令牌/验证器到Steam++教程V2 - 使用电脑加速抓包避免网络环境限制](https://keylol.com/t845721-1-1)
 
 [[2022]华为手机提取Steam令牌给ASF](https://keylol.com/t819259-1-1)
+
+[Steam手机令牌导出与导入第三方令牌工具(可共存 暂挂2天)](https://keylol.com/t958415-1-1)
+
+[【Android】从3.0以上版本的steam app中获取令牌文件经验小结](https://keylol.com/t901003-1-1)
 
 ## Steam账户
 
@@ -125,6 +131,17 @@ Steam商店有【启动Value反作弊保护】这一条的
 
 论坛链接：[https://keylol.com/t950014-1-1](https://keylol.com/t950014-1-1)
 
+### 如何快速筛选出Steam库中不支持家庭共享的游戏？
+
+[https://store.steampowered.com/account/familymanagement/?tab=library&utm_source=keylol&curator_clanid=9730205](https://store.steampowered.com/account/familymanagement/?tab=library&utm_source=keylol&curator_clanid=9730205)
+已排除的游戏，还有的一些第三方的（也不能共享）没在里面好像
+
+论坛链接：[https://keylol.com/t951808-1-1](https://keylol.com/t951808-1-1)
+
+### 现在的家庭共享连坐机制是怎样的？【2024-7-15 22:37】
+
+[https://keylol.com/t958530-1-1](https://keylol.com/t958530-1-1)
+
 ## 挂卡
 
 [请问ASF每隔一小段时间就会掉线怎么办？](https://keylol.com/t879347-1-1)
@@ -141,7 +158,6 @@ A：
 1、更新慢、较为简洁（但部分软件仍有部分广告）、部分功能阉割
 2、找一些大佬开发的第三方平替官方软件、找一些平替小众软件、不怕的话可以下载各种大佬修改的版本
 
-论坛标题：关于安卓机下载app
 论坛链接：[https://keylol.com/t931105-1-1](https://keylol.com/t931105-1-1)
 
 [个人关于国内品牌平台羊毛的小心得](https://keylol.com/t902696-1-1)
@@ -165,3 +181,13 @@ A：
 [配眼镜可以知道的一些小知识](https://keylol.com/t947438-1-1)
 
 [命令行：把指定的subid游戏移出购物车。](https://keylol.com/t950283-1-1)
+
+[PC端搜狗输入法皮肤广告怎么关？](https://keylol.com/t951453-1-1)
+
+[批量删除steam市场出售物品的邮件](https://keylol.com/t952677-1-1)
+
+[银行账户种类知识](https://keylol.com/t953603-1-1)
+
+[MUV-LUV游戏推荐](https://keylol.com/t956945-1-1)
+
+[能够看世界各国假期日历的网站](https://keylol.com/t960199-1-1)
