@@ -58,11 +58,21 @@ Steam探索队列 控制台版, 无视限区游戏
 
 ### 补充包脚本
 
+#### Steam补充包脚本 - 逍遥千寻
+
 steam补充包脚本 2024.2.13 更新到4.00
 
 论坛链接：[https://keylol.com/t934850-1-1](https://keylol.com/t934850-1-1)
 
 GreasyFork链接：[https://greasyfork.org/zh-CN/scripts/376049](https://greasyfork.org/zh-CN/scripts/376049)
+
+#### 另一个补充包脚本
+
+Boosterpack_Enhance - Chr_
+
+论坛链接：[https://keylol.com/t971932-1-1](https://keylol.com/t971932-1-1)
+
+GreasyFork链接：[https://greasyfork.org/zh-CN/scripts/512397](https://greasyfork.org/zh-CN/scripts/512397)
 
 ### 访问Steam云存档
 
@@ -97,6 +107,12 @@ Steam动态批量点赞脚本【增强版】
 GreasyFork链接：[https://greasyfork.org/zh-CN/scripts/496295](https://greasyfork.org/zh-CN/scripts/496295)
 
 Github链接：[https://github.com/chr233/GM_Scripts](https://github.com/chr233/GM_Scripts)
+
+### 【Steam脚本】批量删除给他人的社区留言
+
+删除 Steam 留言的 Python 脚本
+
+论坛链接：[https://keylol.com/t965739-1-1](https://keylol.com/t965739-1-1)
 
 ### ASF点数打赏插件 ASFAwardToolLite
 
@@ -183,11 +199,15 @@ GreasyFork链接：[https://greasyfork.org/zh-CN/scripts/481986](https://greasyf
 
 ### Steam网页批量激活
 
-网页全自动批量激活脚本，含1小时冷却后继续激活功能
+AuTo Redeem Steamkey【2021/09/01】
+
+[https://greasyfork.org/zh-CN/scripts/36666](https://greasyfork.org/zh-CN/scripts/36666)
+
+网页全自动批量激活脚本，含1小时冷却后继续激活功能【2018/08/30】
 
 [https://keylol.com/t419519-1-1](https://keylol.com/t419519-1-1)
 
-【脚本】Steam网页批量激活
+【脚本】Steam网页批量激活【2017/09/02】
 
 [https://keylol.com/t303915-1-1](https://keylol.com/t303915-1-1)
 
